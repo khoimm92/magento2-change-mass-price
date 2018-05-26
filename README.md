@@ -1,4 +1,4 @@
-# magento2-change-whole-product-price
+# magento2-change-mass-product-price
 Magento2 Module: Change whole product price by setting
 
 -------------------------
