@@ -7,8 +7,8 @@ Installation Instructions
 
 1, Clone source to this folder <strong>app/code/Khoai/</strong> 
 
-3, Enable <strong>Khoai_ChangePrice</strong> module
+2, Enable <strong>Khoai_ChangePrice</strong> module
 
-4, Run **setup:upgrade** and flush cache
+3, Run **setup:upgrade** and flush cache
 
 Go to Admin -> Store configurations -> Customization -> 'Change Price' tab to add new price
